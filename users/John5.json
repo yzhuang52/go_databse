@@ -1,0 +1,12 @@
+{
+	"Name": "John5",
+	"Age": 23,
+	"Contact": "18332344213",
+	"Company": "Yan's tech",
+	"Address": {
+		"City": "Qingdao",
+		"State": "Shandong",
+		"Country": "China",
+		"Pincode": 266000
+	}
+}
